@@ -37,9 +37,9 @@ To install and play Crystal Clash:
 
 2. Open the project in Unity Hub.
 
-3.Build the project for Android in Unity by selecting File > Build Settings, choosing the Android platform, and clicking Build.
+3. Build the project for Android in Unity by selecting File > Build Settings, choosing the Android platform, and clicking Build.
 
-4.Install the APK file on your Android device.
+4. Install the APK file on your Android device.
 
 
 ## Project Structure
