@@ -42,4 +42,25 @@ To install and play Crystal Clash:
 4.Install the APK file on your Android device.
 
 
+## Project Structure
+
+- **Assets**: Contains all the game assets, including models, textures, scripts, and UI elements.
+- **Scripts**: This folder holds the game logic, including AR functionality, player controls, tower placement, and enemy behavior.
+- **Scenes**: The game scenes are stored here, with the main scene being the battlefield where players can interact with the AR environment.
+
+## Technologies Used
+
+- **Unity3D**: Game engine used for development.
+- **ARCore**: Augmented Reality framework to place the game environment in the real world.
+- **C#**: Programming language used for the game logic and mechanics.
+
+## Gameplay Instructions
+
+- **Placing the Tower**: Once the AR scan is complete, choose the center point for your main tower and tap to place it.
+- **Controlling the Main Tower**: Use the touch screen to aim and attack enemies directly.
+- **Building Support Towers**: Use in-game points to add support towers, which automatically attack enemies based on their special powers (fire, freeze, electric, etc.).
+- **Defend the Castle**: Strategically defend your main tower against waves of increasingly difficult enemies.
+- **Upgrade**: Earn points after each level to upgrade towers or repair the main tower.
+
+
 
